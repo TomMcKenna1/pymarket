@@ -1,5 +1,6 @@
 import requests
 import aiohttp
+
 from .price_history import PriceHistory
 
 class Asset:
