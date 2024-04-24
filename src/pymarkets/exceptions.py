@@ -1,0 +1,2 @@
+class PyMarketConnectionError(Exception):
+    pass
